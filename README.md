@@ -24,3 +24,11 @@
 <a href="https://www.gitanimals.org/ko_KR/guilds/donggukgirls">
   <img src="https://render.gitanimals.org/guilds/831720539654426234/draw" width="600" height="300" alt="gitanimals" />
 </a>
+
+### 💌 Contact
+<a href="mailto:gpeka05@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white">
+</a>
+<a href="https://www.instagram.com/h.h_dam/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram&logoColor=white">
+</a>
