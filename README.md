@@ -27,8 +27,9 @@
 
 ### 💌 Contact
 <a href="mailto:gpeka05@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href="https://www.instagram.com/h.h_dam/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
 </a>
+
