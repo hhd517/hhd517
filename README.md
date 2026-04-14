@@ -30,7 +30,7 @@
   <table>
     <tr>
       <td align="center"><b>hhd517 🐻‍❄️</b></td>
-      <td align="center"><b>Dongguk Guild 🐘🧡</b></td>
+      <td align="center"><b>donggukgirls 🐘🧡</b></td>
     </tr>
     <tr>
       <td>
