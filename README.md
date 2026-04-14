@@ -1,5 +1,3 @@
-# hhd517 🐻‍❄️
-
 ![header](https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&text=Hyedam&descAlign=60&descAlignY=24&fontColor=D9D9D6)
 
 <br/>
