@@ -3,8 +3,12 @@
 ### 📊 GitHub Stats
 ![HyeDam's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hhd517&theme=tokyonight)
 
-### 🐍 Snake Game
-![snake](https://raw.githubusercontent.com/hhd517/hhd517/output/github-contribution-grid-snake.svg)
+## 👾 Pacman Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhd517/hhd517/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/hhd517/hhd517/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
