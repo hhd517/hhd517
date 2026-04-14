@@ -25,13 +25,27 @@
 ---
 
 ## 🐧 My Collection
-<a href="https://www.gitanimals.org/ko_KR/mypage">
-  <img src="https://render.gitanimals.org/farms/hhd517" width="600" height="300" />
-</a>
 
-<a href="https://www.gitanimals.org/ko_KR/guilds/donggukgirls">
-  <img src="https://render.gitanimals.org/guilds/831720539654426234/draw" width="600" height="300" alt="gitanimals" />
-</a>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>hhd517 🐻‍❄️</b></td>
+      <td align="center"><b>Dongguk Guild 🐘🧡</b></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.gitanimals.org/ko_KR/mypage">
+          <img src="https://render.gitanimals.org/farms/hhd517" width="400" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.gitanimals.org/ko_KR/guilds/donggukgirls">
+          <img src="https://render.gitanimals.org/guilds/831720539654426234/draw" width="400" alt="gitanimals" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
