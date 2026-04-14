@@ -50,4 +50,4 @@
 ---
 
 ## 💌 Contact
-<a href="mailto:gpeka05@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"></a> <a href="https://www.instagram.com/h.h_dam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a> <a href="노션주소"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"></a>
+<a href="mailto:gpeka05@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"></a> <a href="https://www.instagram.com/h.h_dam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a> 
