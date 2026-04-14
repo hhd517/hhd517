@@ -2,7 +2,7 @@
 <br/>
 
 ### 📊 GitHub Stats
-![HyeDam's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hhd517&theme=tokyonight)
+![HyeDam's Stats](https://github-readme-stats.vercel.app/api?username=hhd517&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## hhd517 🐻‍❄️
 <a href="https://www.gitanimals.org/ko_KR/mypage">
