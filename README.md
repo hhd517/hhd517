@@ -62,5 +62,3 @@
 <a href="https://www.instagram.com/h.h_dam/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
 </a>
-
-여기서 너무 많이 바꾸지말고 내용은 똑같은데 더 잘 꾸며주라고
