@@ -2,7 +2,7 @@
 <br/>
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=hhd517&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+![HyeDam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hhd517&show_icons=true&theme=tokyonight)
 
 ## hhd517 🐻‍❄️
 <a href="https://www.gitanimals.org/ko_KR/mypage">
