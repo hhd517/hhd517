@@ -1,5 +1,4 @@
 name: generate pacman game
-
 on:
   schedule:
     - cron: "0 */24 * * *"
@@ -7,19 +6,18 @@ on:
   push:
     branches:
       - main
-
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-
     steps:
       - name: generate pacman graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: hhd517
-
+        env:
+          ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
       - name: push graph
         uses: crazy-max/ghaction-github-pages@v3
         with:
