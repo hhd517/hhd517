@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&text=Hyedam&descAlign=60&descAlignY=24&fontColor=D9D9D6)
+![header](https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&text=Hyedam&desc=Backend%20Developer&descAlign=60&descAlignY=16&fontColor=D9D9D6)
+
+---
 
 ## 👾 Pacman Path
 
@@ -11,14 +13,17 @@
 
 ## 🛠 Tech Stack
 
-**Backend**
-> <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F"> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"> <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=092E20">
+### Backend
 
-**Frontend**
-> <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"> <img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB">
+> <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F"> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"> <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=092E20">
 
-**Tools**
-> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED"> <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E">
+### Frontend / Markup
+
+> <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"> <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+### Tools & Collaboration
+
+> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED"> <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E">
 
 ---
 
@@ -47,16 +52,17 @@
 
 ---
 
-## 💌 Contact
-
-<a href="mailto:gpeka05@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"></a> <a href="https://www.instagram.com/h.h_dam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-
----
-
-### 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=hhd517&hide_border=true&background=00000000&ring=8FB8E5&fire=A9CBE8&currStreakLabel=8FB8E5&sideLabels=D9D9D6&currStreakNum=D9D9D6&sideNums=D9D9D6&dates=D9D9D6" width="60%" />
 
 </div>
+
+---
+
+## 💌 Contact
+
+<a href="mailto:gpeka05@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/h.h_dam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
