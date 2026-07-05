@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hhd517&show_icons=true&hide_border=true&bg_color=00000000&title_color=8FB8E5&icon_color=A9CBE8&text_color=D9D9D6&count_private=true" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=hhd517&show_icons=true&hide_border=true&bg_color=00000000&title_color=8FB8E5&icon_color=A9CBE8&text_color=D9D9D6&count_private=true" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=hhd517&hide_border=true&background=00000000&ring=8FB8E5&fire=A9CBE8&currStreakLabel=8FB8E5&sideLabels=D9D9D6&currStreakNum=D9D9D6&sideNums=D9D9D6&dates=D9D9D6" width="49%" />
 
 </div>
